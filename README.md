@@ -1,6 +1,6 @@
 ### Hello!
 
-I am an aspiring full stack developer.  
+I am an aspiring **developer**.  
 Thanks for checking out my profile!
 
 > Whatever happens, happens.
