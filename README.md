@@ -1,4 +1,4 @@
-### Hello! Welcome to my GitHub <img align=right src="https://komarev.com/ghpvc/?username=mausn1&color=lightgrey"/>
+### Hello and welcome to my GitHub!!! <img align=right src="https://komarev.com/ghpvc/?username=mausn1&color=lightgrey"/>
 ***
 ### About<br />
 ---
