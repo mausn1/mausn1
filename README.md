@@ -2,6 +2,4 @@
 
 ---
 <h3 align=center> About </h3><br />
-
----
 I use void linux. I like programming in rust, python and C. 
