@@ -1,4 +1,4 @@
-### Hello and welcome to my GitHub!!! <img align=right src="https://komarev.com/ghpvc/?username=mausn1&color=lightgrey"/>
+### Heyo and welcome to my GitHub!
 ***
 ### About<br />
-I like programming in rust, C and python. I use primarily void linux and appreciate the unix philosophy. 
+I use void linux. I like programming in rust, python and C. 
