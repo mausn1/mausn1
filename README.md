@@ -1,6 +1,6 @@
 ### Hello!
 
 I have an interest for hacking and computer architecture<br />
-I also like dwelling in graphic design but primarly illustration
-Found "believer" in the unix philosophy, say no to bloat
+I also like dwelling in graphic design but primarly illustration<br />
+I believe in the unix philosophy
 
