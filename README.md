@@ -1,4 +1,4 @@
-<h1 align=center> Heyo and welcome to my GitHub! </h1>
+# Heyo and welcome to my GitHub!
 
 ### About <br />
 I use void linux. I like programming in rust, python and C. 
